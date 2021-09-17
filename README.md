@@ -1,5 +1,5 @@
 # Omegle-ip-puller-setup
-begin by starting up omegle.com
+begin by starting up omegle.com then 
 download the tampermonkey extension.
 setup complete!
 # Omegle-ip-puller-start
